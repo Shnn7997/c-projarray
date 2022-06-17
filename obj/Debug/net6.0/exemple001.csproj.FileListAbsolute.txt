@@ -1,0 +1,15 @@
+E:\c#\exemple001\bin\Debug\net6.0\exemple001.exe
+E:\c#\exemple001\bin\Debug\net6.0\exemple001.deps.json
+E:\c#\exemple001\bin\Debug\net6.0\exemple001.runtimeconfig.json
+E:\c#\exemple001\bin\Debug\net6.0\exemple001.dll
+E:\c#\exemple001\bin\Debug\net6.0\exemple001.pdb
+E:\c#\exemple001\obj\Debug\net6.0\exemple001.csproj.AssemblyReference.cache
+E:\c#\exemple001\obj\Debug\net6.0\exemple001.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\exemple001\obj\Debug\net6.0\exemple001.AssemblyInfoInputs.cache
+E:\c#\exemple001\obj\Debug\net6.0\exemple001.AssemblyInfo.cs
+E:\c#\exemple001\obj\Debug\net6.0\exemple001.csproj.CoreCompileInputs.cache
+E:\c#\exemple001\obj\Debug\net6.0\exemple001.dll
+E:\c#\exemple001\obj\Debug\net6.0\refint\exemple001.dll
+E:\c#\exemple001\obj\Debug\net6.0\exemple001.pdb
+E:\c#\exemple001\obj\Debug\net6.0\exemple001.genruntimeconfig.cache
+E:\c#\exemple001\obj\Debug\net6.0\ref\exemple001.dll
